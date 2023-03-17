@@ -31,6 +31,22 @@
       "category": "Casa",
       "price": 1940,
       "createdAt": "2023-03-16T19:30:30.340Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "category": "Venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-03-17T04:58:51.712Z",
+      "id": 5
+    },
+    {
+      "description": "Salgado",
+      "category": "Alimentação",
+      "price": 7,
+      "type": "income",
+      "createdAt": "2023-03-17T05:17:00.526Z",
+      "id": 6
     }
   ]
 }
